@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { motion } from "framer-motion";
-import { LogoTickerImages } from "../_constant";
+import { LogoTickerImages } from "../_constants";
 
 const LogoTicker = () => {
   return (

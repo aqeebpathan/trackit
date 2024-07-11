@@ -5,7 +5,7 @@ import { motion, AnimatePresence } from "framer-motion";
 
 import PlusIcon from "@/assets/icons/plus.svg";
 import MinusIcon from "@/assets/icons/minus.svg";
-import { faqs } from "../_constant";
+import { faqs } from "../_constants";
 
 const AccordionItem = ({
   question,

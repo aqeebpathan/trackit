@@ -2,7 +2,7 @@ import Image from "next/image";
 import logoImage from "@/assets/images/logo.png";
 import MenuIcon from "@/assets/icons/menu.svg";
 import Link from "next/link";
-import { navLinks } from "../_constant";
+import { navLinks } from "../_constants";
 
 const Navbar = () => {
   return (
